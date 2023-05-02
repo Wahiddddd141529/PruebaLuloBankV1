@@ -4,7 +4,7 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 
 public class CreateUserRequest {
-    public static String body;
+    public static String body;    
 
     public void bodyRequest(){
        body = "{\n" +
